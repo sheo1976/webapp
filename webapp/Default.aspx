@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <p><b>This is the app application version number 1.</b></p>
+            <p><b>This is the app application version number 2.</b></p>
         </div>
     </form>
 </body>
